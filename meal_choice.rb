@@ -17,6 +17,7 @@ lunch
 
 
 
+
 # Call the methods with puts and your own arguments here. Like this:
 
 ## This returns "Any time, is the right time for Sweedish fish!"
