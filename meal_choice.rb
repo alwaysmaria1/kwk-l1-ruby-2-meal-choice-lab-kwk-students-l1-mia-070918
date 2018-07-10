@@ -5,13 +5,13 @@
 def breakfast(food="frosted flakes")
    "morning is the best time for #{food}!"
 end
-breakfast("Pancakes")
-breakfast
+ puts breakfast("Pancakes")
+ puts breakfast
 def lunch(food2="grilled cheese")
  "Lunch should be yummy, so I recommend #{food2}!"
 end
-lunch("pasta")
-lunch
+puts lunch("pasta")
+ puts lunch
 
 
 
