@@ -7,11 +7,11 @@ def breakfast(food="frosted flakes")
 end
 breakfast("Pancakes")
 breakfast
-def lunch(food2="grilled cheese")
-  puts "Lunch should be yummy, so I recommend #{food2}!"
-end
-lunch("pasta")
-lunch
+# def lunch(food2="grilled cheese")
+#   puts "Lunch should be yummy, so I recommend #{food2}!"
+# end
+# lunch("pasta")
+# lunch
 
 
 
