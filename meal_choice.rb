@@ -8,7 +8,7 @@ end
 breakfast("Pancakes")
 breakfast
 def lunch(food2="grilled cheese")
-  puts "Lunch should be yummy, so I recommend #{food2}!"
+ "Lunch should be yummy, so I recommend #{food2}!"
 end
 lunch("pasta")
 lunch
